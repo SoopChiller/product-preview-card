@@ -154,7 +154,7 @@ button {
     }
 
     .text-content {
-        gap: 8px
+        gap: 8px;
     }
 
     br {
@@ -172,7 +172,7 @@ button {
     }
 
     .cart {
-       margin-left: 45px;
+       margin-left: 38px;
     }
 
  }
