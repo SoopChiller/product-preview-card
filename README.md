@@ -20,7 +20,7 @@
 ### Screenshot
 
 ![](./desktop-design.png)
-![](./mobile-state.png)
+![](./mobile-design.png)
 ![](./active-state.png)
 
 ### Links
