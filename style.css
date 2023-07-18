@@ -1,5 +1,5 @@
 .attribution { font-size: 11px; text-align: center;}
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(228, 45%, 44%);}
 
 body {
     background-color: hsl(30, 38%, 92%);
@@ -10,8 +10,7 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    flex-wrap: wrap;
-    
+    box-sizing: border-box;
 }
 
 
@@ -100,6 +99,11 @@ button {
     border: none;
     border-radius: 10px;
     text-align: end;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: hsl(159, 29%, 19%);
 }
 
 .mobile-picture {
